@@ -27,5 +27,5 @@ model/*.h5
 
 # img
 *.jpg
-!data/input_data
+!data/input_data/input_img.jpg
 !data/val_data/1ade69b2-4f14-11ef-9794-beecda8d9db4.jpg
