@@ -25,15 +25,28 @@
 
 `
   pip install tensorflow
-  pip install numpy
-  pip install matplotlib
   pip install firebase_admin
-  pip install 
 `
 
 or
 
-`pip install -r requiments.txt`
+`pip install -r requirements.txt`
+
+## After You Create An Environment Successful
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
