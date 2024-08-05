@@ -19,9 +19,10 @@
 
 > window
 
-`env/Scripts/activate.bat //In CMD
- env/Scripts/Activate.ps1 //In Powershel
-`
+```
+env/Scripts/activate.bat //In CMD
+env/Scripts/Activate.ps1 //In Powershel
+````
 
 ### Install All Dependencies We Need !
 
