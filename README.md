@@ -14,9 +14,11 @@
 ### Activate an environment
 
 > macOs/linux
+
 `source .venv/bin/activate`
 
 > window
+
 `env/Scripts/activate.bat //In CMD
  env/Scripts/Activate.ps1 //In Powershel
 `
@@ -34,7 +36,8 @@ or
 
 ## After You Create An Environment Successful
 
-
+1. you need to get firebase credential from firebase website.Then you put your credential in **smart-home-cred.json**.
+2. after you need to create telegram bot by using bot-father in telegram and then put your bot api to **ultis/constance.py** 
 
 
 
