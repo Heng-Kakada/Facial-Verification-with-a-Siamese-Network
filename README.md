@@ -42,12 +42,9 @@ or
 
 ## Run Program
 
-> Note: 
+> Note: --camera Use To Open Your Own Camera That Available On Your Computer Input
 
 `python3 main.py --camera 0`
-
-
-
 
 
 
