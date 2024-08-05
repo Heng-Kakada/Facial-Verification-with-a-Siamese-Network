@@ -25,10 +25,10 @@
 
 ### Install All Dependencies We Need !
 
-`
+```
   pip install tensorflow
   pip install firebase_admin
-`
+```
 
 or
 
@@ -40,7 +40,11 @@ or
 2. after you need to create telegram bot by using bot-father in telegram and then put your bot api to **ultis/constant.py** on variable name TOKEN and USER_ID
 
 
+## Run Program
 
+> Note: 
+
+`python3 main.py --camera 0`
 
 
 
